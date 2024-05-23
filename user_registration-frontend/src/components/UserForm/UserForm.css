@@ -1,0 +1,59 @@
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  border-radius: 10px;
+}
+
+.title {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.form {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.field {
+  margin-bottom: 20px;
+}  ritik kumar
+
+.label {
+  margin-bottom: 5px;
+  font-size: 19px;
+  font-weight: bold;
+  
+}
+
+.input {
+  padding: 8px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 90%;
+  height: 20px;
+  
+  
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.error {
+  color: #a94442; /* Dim red color */
+  font-size: 14px;
+  margin-top: 5px;
+}
