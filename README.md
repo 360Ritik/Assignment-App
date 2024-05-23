@@ -2,7 +2,7 @@
 
 
 ## Demo Video
-Watch the [Demo Video] [projectVideo.webm] (https://github.com/360Ritik/Assignment-App/assets/93071300/aee61168-a27b-4f32-8c43-14b59cdd0a68)
+Watch the [Demo Video] [projectVideo.webm](https://github.com/360Ritik/Assignment-App/assets/93071300/d35a041f-3c45-47d1-af02-1d1194d11b0c)
 ) to see the application in action.
 
 ## Getting Started with Create React App
